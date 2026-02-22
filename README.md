@@ -8,8 +8,8 @@ Ashdeck is an open-source productivity app that blocks distractions and enhances
 ### How to run
 
 1. ```npm install```
-
-2. ```npm run dev```
+2. ```npm i -D concurrently```
+3. ```npm run dev```
 
 
 Please try to study the code structure for easy collaboration.
